@@ -10,7 +10,7 @@ A foundational JavaScript course covering the language from the ground up — va
 
 ## Progress
 
-- [ ] Module 1 — Introduction to JavaScript · *variables, data types, operators, conditionals, loops*
+- [ ] Module 1 — Introduction to JavaScript · *variables, data types, operators, conditionals, loops* (in progress)
 - [ ] Module 2 — The Building Blocks of a Program · *objects, arrays, functions, built-in methods, error handling*
 - [ ] Module 3 — Programming Paradigms · *functional & OOP, scope, var/let/const, classes, spread/rest, DOM, events, JSON*
 - [ ] Module 4 — Testing · *Node.js, npm, package.json, unit testing with Jest*

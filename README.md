@@ -20,18 +20,6 @@ A foundational JavaScript course covering the language from the ground up — va
 
 `JavaScript (ES6)` · `Node.js` · `npm` · `Jest` · `OOP` · `Functional programming` · `DOM / events` · `JSON`
 
-## Repository structure
-
-```
-.
-├── module-1-intro/
-├── module-2-building-blocks/
-├── module-3-paradigms/
-├── module-4-testing/
-└── module-5-final-project/
-```
-
-*(folders added as I progress through each module)*
 
 ## Background
 
